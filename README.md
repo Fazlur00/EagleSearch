@@ -1,4 +1,4 @@
-#Eagle Search
+#EagleSearch
 
 Basic Search Engine..
 
